@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Tom%20Mathenjwa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Tumelo%20Mathenjwa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">🧠 The Cognitive Architect</h1>
@@ -50,7 +50,6 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 
 ---
 
-## 📊 GitHub Intelligence
 
 ## 📊 GitHub Intelligence
 
@@ -73,7 +72,7 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://linkedin.com/in/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/tumelo-mathenjwa-439a21289/)
 
 </p>
 
