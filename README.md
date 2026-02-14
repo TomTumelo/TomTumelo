@@ -1,4 +1,87 @@
-## Hi there 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Tom%20Mathenjwa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">🧠 The Cognitive Architect</h1>
+
+<p align="center">
+🚀 AI Builder | ☁️ Cloud Engineer | 📊 Data Explorer | 🎨 Afro-Surreal Creative  
+<br>
+Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelligence</b>.
+</p>
+
+---
+
+## ⚡ Digital Identity
+
+> I don’t just write code.  
+> I design systems that think.
+
+- 🌍 Based in South Africa
+- ☁️ AWS Cloud Practitioner (in progress)
+- 🤖 Building AI-powered applications
+- 📊 Exploring Data, Automation & Intelligence
+- 🧠 Founder of **The Cognitive Chain**
+
+---
+
+## 🔮 Currently Building
+
+- 🌴 **Vacation Made Easy** – AI-enhanced travel planning
+- ☕ Cloud migration architecture for a fictional café
+- 🧠 AI integrations for web applications (Node.js + MySQL)
+- 📊 Data analytics portfolio projects
+
+---
+
+## 🧰 Tech Arsenal
+
+<p align="center">
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F7FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F7FF)
+
+</p>
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+</p>
+
+---
+
+## 🐍 Code Never Sleeps
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://linkedin.com/in/YOURPROFILE)
+
+</p>
+
+---
+
+<p align="center">
+“Technology is not the future.  
+Intelligence is.”
+</p>
+
 
 <!--
 **TomTumelo/TomTumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
