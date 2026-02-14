@@ -49,16 +49,13 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 </p>
 
 ---
-
-
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomTumelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomTumelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomTumelo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomTumelo&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🐍 Code Never Sleeps
 
