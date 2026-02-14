@@ -52,9 +52,11 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 
 ## 📊 GitHub Intelligence
 
+## 📊 GitHub Intelligence
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomTumelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomTumelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 ---
@@ -62,7 +64,7 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 ## 🐍 Code Never Sleeps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TomTumelo/TomTumelo/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
