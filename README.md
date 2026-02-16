@@ -34,8 +34,7 @@ Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelli
 - 📊 Data analytics portfolio projects
 
 ---
-<h1 align="center">Hi 👋, I'm Tumelo Mathenjwa</h1>
-<h3 align="center">A passionate aspiring cloud AI Builder | ☁️ Cloud Engineer | 📊 Data Explorer | 🎨 Afro-Surreal Creative Building at the intersection of Human Cognition and Artificial Intelligence.</h3>
+
 
 ## 🧰 Tech Arsenal
 - 🔭 I’m currently working on **🌴 Vacation Made Easy – AI-enhanced travel planning**
