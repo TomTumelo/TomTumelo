@@ -1,91 +1,88 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Tumelo%20Mathenjwa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h1 align="center">🧠 The Cognitive Architect</h1>
+# Tumelo Mathenjwa
+### Junior Cloud Engineer · AWS re/Start · Johannesburg, ZA
 
-<p align="center">
-🚀 AI Builder | ☁️ Cloud Engineer | 📊 Data Explorer | 🎨 Afro-Surreal Creative  
-<br>
-Building at the intersection of <b>Human Cognition</b> and <b>Artificial Intelligence</b>.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/AWS%20Portfolio-View-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/TomTumelo/AWS-Re-start-journey)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+</div>
 
 ---
 
-## ⚡ Digital Identity
+## 👋 About Me
 
-> I don’t just write code.  
-> I design systems that think.
+I'm a cloud engineer in the making, currently completing the **AWS re/Start** program in Johannesburg. I come from a background in data collection and fieldwork supervision at **Statistics South Africa**, with additional training through **ALX Africa** in AI, virtual assistance, and professional foundations.
 
-- 🌍 Based in South Africa
-- ☁️ AWS Cloud Practitioner (in progress)
-- 🤖 Building AI-powered applications
-- 📊 Exploring Data, Automation & Intelligence
-- 🧠 Founder of **The Cognitive Chain**
+I'm drawn to cloud because it sits at the intersection of problem-solving, infrastructure, and real-world impact. Every lab I complete, every architecture I design, every bug I troubleshoot brings me closer to building things that scale.
+
+> 🎯 Currently pursuing: **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
-## 🔮 Currently Building
+## 🧰 Tech Stack
 
-- 🌴 **Vacation Made Easy** – AI-enhanced travel planning
-- ☕ Cloud migration architecture for a fictional café
-- 🧠 AI integrations for web applications (Node.js + MySQL)
-- 📊 Data analytics portfolio projects
+**Cloud & Infrastructure**
 
----
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/Lex-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
+**Tools & Languages**
 
-## 🧰 Tech Arsenal
-- 🔭 I’m currently working on **🌴 Vacation Made Easy – AI-enhanced travel planning**
-
-<p align="center">
-- 🌱 I’m currently learning **Cloud Computing**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-- 📫 How to reach me **mathenjwatumelo11@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/1689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1689" height="30" width="40" /></a>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🌍 Connect With Me
+## 🚀 Featured Project
 
-<p align="center">
+### 🤖 AWS Lex Quiz Chatbot — CloudLearners Inc.
+> Built an AI-powered interactive quiz chatbot using Amazon Lex for a fictional educational client. Designed intents, utterances, slot types, and branching logic for a multi-question AWS knowledge quiz with instant feedback.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/tumelo-mathenjwa-439a21289/)
-
-</p>
+**[→ View Project](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/Projects/aws-lex-chatbot)**
 
 ---
 
-<p align="center">
-“Technology is not the future.  
-Intelligence is.”
-</p>
+## 📂 AWS re/Start Portfolio
 
+| Area | What's Inside |
+|---|---|
+| [🏅 Certifications & Badges](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/certifications-and-badges) | 7 AWS badges with full overviews |
+| [🧪 Labs](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/labs) | 12 hands-on labs across Compute, Networking, Security, Databases, Linux & Python |
+| [🛠️ Projects](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/Projects) | S3 Static Site · E-Commerce Architecture · Lex Chatbot |
 
-<!--
-**TomTumelo/TomTumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📈 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://github.com/TomTumelo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/TomTumelo" /></a></p><br><br>
+- 📖 AWS CCP exam prep (CLF-C02)
+- 🏗️ Expanding cloud project portfolio
+- 🐍 Building Python skills for cloud automation
+- 🌍 **Vacation Made Easy** — a travel planning platform with cloud infrastructure
+
+---
+
+## 💬 A bit more
+
+- 🎓 **ALX Africa** — AI Career Essentials · Virtual Assistant · Professional Foundations
+- 📊 **Statistics South Africa** — Fieldwork Supervisor
+- 🌍 Based in Johannesburg, open to remote opportunities
+- 💡 Passionate about building scalable, cost-effective cloud solutions
+
+---
+
+<div align="center">
+<sub>☁️ Every commit is a step forward.</sub>
+</div>
