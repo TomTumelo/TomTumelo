@@ -1,88 +1,126 @@
+<!-- Header -->
 <div align="center">
 
-# Tumelo Mathenjwa
-### Junior Cloud Engineer · AWS re/Start · Johannesburg, ZA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/AWS%20Portfolio-View-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/TomTumelo/AWS-Re-start-journey)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   $ whoami                                                   ║
+║   > Tumelo Mathenjwa                                         ║
+║                                                              ║
+║   $ cat interests.txt                                        ║
+║   > cloud infrastructure · data · systems · building things  ║
+║                                                              ║
+║   $ locate --current                                         ║
+║   > Johannesburg, South Africa                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 👋 About Me
+## `> ./about_me.sh`
 
-I'm a cloud engineer in the making, currently completing the **AWS re/Start** program in Johannesburg. I come from a background in data collection and fieldwork supervision at **Statistics South Africa**, with additional training through **ALX Africa** in AI, virtual assistance, and professional foundations.
+I don't fit neatly into one box — and I don't try to.
 
-I'm drawn to cloud because it sits at the intersection of problem-solving, infrastructure, and real-world impact. Every lab I complete, every architecture I design, every bug I troubleshoot brings me closer to building things that scale.
+I've supervised fieldwork for **Statistics South Africa**, managed data across thousands of survey entries, and learned that the most important skill in any technical role is knowing how to ask the right question. Now I'm applying that same rigor to cloud infrastructure.
 
-> 🎯 Currently pursuing: **AWS Certified Cloud Practitioner (CLF-C02)**
+I build things. I research things. I connect dots across disciplines that most people keep separate. Currently deep in AWS, but the curiosity doesn't stop there — it never has.
 
 ---
 
-## 🧰 Tech Stack
+## `> ls skills/`
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Lex](https://img.shields.io/badge/Lex-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-**Tools & Languages**
+**Languages & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-## 🚀 Featured Project
+## `> cat active_projects.json`
 
-### 🤖 AWS Lex Quiz Chatbot — CloudLearners Inc.
-> Built an AI-powered interactive quiz chatbot using Amazon Lex for a fictional educational client. Designed intents, utterances, slot types, and branching logic for a multi-question AWS knowledge quiz with instant feedback.
-
-**[→ View Project](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/Projects/aws-lex-chatbot)**
-
----
-
-## 📂 AWS re/Start Portfolio
-
-| Area | What's Inside |
-|---|---|
-| [🏅 Certifications & Badges](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/certifications-and-badges) | 7 AWS badges with full overviews |
-| [🧪 Labs](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/labs) | 12 hands-on labs across Compute, Networking, Security, Databases, Linux & Python |
-| [🛠️ Projects](https://github.com/TomTumelo/AWS-Re-start-journey/tree/main/Projects) | S3 Static Site · E-Commerce Architecture · Lex Chatbot |
-
----
-
-## 📈 Currently Working On
-
-- 📖 AWS CCP exam prep (CLF-C02)
-- 🏗️ Expanding cloud project portfolio
-- 🐍 Building Python skills for cloud automation
-- 🌍 **Vacation Made Easy** — a travel planning platform with cloud infrastructure
+```json
+{
+  "AWS-Re-start-journey": {
+    "type": "cloud portfolio",
+    "status": "actively expanding",
+    "contains": ["12 labs", "3 projects", "7 badges"],
+    "target": "AWS CCP (CLF-C02)"
+  },
+  "Vacation-Made-Easy": {
+    "type": "travel platform",
+    "status": "in development",
+    "stack": ["HTML", "CSS", "JS", "AI integration"],
+    "description": "AI-assisted travel planning — smarter trips, less friction"
+  }
+}
+```
 
 ---
 
-## 💬 A bit more
+## `> git log --oneline --graph`
 
-- 🎓 **ALX Africa** — AI Career Essentials · Virtual Assistant · Professional Foundations
-- 📊 **Statistics South Africa** — Fieldwork Supervisor
-- 🌍 Based in Johannesburg, open to remote opportunities
-- 💡 Passionate about building scalable, cost-effective cloud solutions
+```
+* ██████░░░░  AWS Cloud Practitioner Exam       [ in progress ]
+* ██████████  AWS re/Start Program              [ complete ]
+* ██████████  ALX Africa — AI Career Essentials [ complete ]
+* ██████████  ALX Africa — Virtual Assistant    [ complete ]
+* ██████████  Statistics South Africa           [ complete ]
+* ██████████  ALX Professional Foundations      [ complete ]
+```
 
 ---
+
+## `> run snake_game.py` 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomTumelo/TomTumelo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomTumelo/TomTumelo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TomTumelo/TomTumelo/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## `> ping connect`
+
+```
+Traceroute to Tumelo Mathenjwa... 3 hops
+
+[1] LinkedIn  ──────────────────────  https://linkedin.com/in/tumelo-mathenjwa439a21289
+[2] GitHub    ──────────────────────  https://github.com/TomTumelo
+[3] Email     ──────────────────────  mathenjwatumelo11@gmail.com / ttmathenjwa56@outlook.com
+
+Connection open. Latency: minimal. 📡
+```
 
 <div align="center">
-<sub>☁️ Every commit is a step forward.</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomTumelo/AWS-Re-start-journey)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+<br/>
+
+```
+[ status: open to junior cloud roles · remote & JHB ]
+```
+
 </div>
